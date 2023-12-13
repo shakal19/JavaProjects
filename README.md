@@ -1,1 +1,1 @@
-SnakeGame with Scoreboard in Java
+Java projects
