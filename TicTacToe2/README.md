@@ -29,7 +29,7 @@ Welcome to the TicTacToe2 Game! This Java-based project allows you to play the c
 
 ## Screenshot
 
-![TicTacToe2 Game Screenshot](xox.png)
+![TicTacToe2 Game Screenshot](xox.PNG)
 
 ## Future Improvements
 
