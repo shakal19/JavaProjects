@@ -28,7 +28,7 @@ Welcome to the SnakeGame! This project is a classic implementation of the Snake 
 
 ## Screenshot
 
-![SnakeGame Screenshot](./screenshot.png)
+![SnakeGame Screenshot](snake.PNG)
 
 ## Future Improvements
 
@@ -40,9 +40,7 @@ Welcome to the SnakeGame! This project is a classic implementation of the Snake 
 
 Contributions are welcome! Feel free to fork this repository, submit pull requests, or suggest features and enhancements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Other Projects
 
