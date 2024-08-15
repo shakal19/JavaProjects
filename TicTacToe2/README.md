@@ -17,7 +17,7 @@ Welcome to the TicTacToe2 Game! This Java-based project allows you to play the c
     ```
 
 2. **Compile the Game**:
-    ```you can do it in any code editor that supports Java
+    ```you can do it in any code editor that supports Java```
 
 
     
@@ -29,7 +29,7 @@ Welcome to the TicTacToe2 Game! This Java-based project allows you to play the c
 
 ## Screenshot
 
-![TicTacToe2 Game Screenshot](./xox.png)
+![TicTacToe2 Game Screenshot](xox.png)
 
 ## Future Improvements
 
