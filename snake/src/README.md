@@ -17,7 +17,8 @@ Welcome to the SnakeGame! This project is a classic implementation of the Snake 
     ```
 
 2. **Compile the Game**:
-    ```compile it in any editor that
+    ```
+    compile it in any editor that
      supports Java
     ```
 
