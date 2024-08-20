@@ -7,6 +7,7 @@ Welcome to the [JavaProjects] repository! This repisitory is about simple games 
 - **TicTacToe2**: [TicTacToe game]
 - **SnakeGame**: [Famous snake game]
 - **RockPaperScissors**: [Rock, paper, scissors game]
+- **Chess**: [Chess game]
 
 
 
